@@ -1,0 +1,8 @@
+{
+  "path": "mod_mysticalagriculture/mutations/menril_mutation.json",
+  "enabled": true,
+  "chance": 0.5,
+  "child": "menril_plant",
+  "parent1": "wood_plant",
+  "parent2": "apatite_plant"
+}

@@ -1,0 +1,8 @@
+{
+  "path": "mod_mysticalagriculture/mutations/redstone_mutation.json",
+  "enabled": true,
+  "chance": 0.5,
+  "child": "redstone_plant",
+  "parent1": "creeper_plant",
+  "parent2": "poppy_plant"
+}

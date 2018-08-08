@@ -1,0 +1,8 @@
+{
+  "path": "mod_mysticalagriculture/mutations/dawnstone_mutation.json",
+  "enabled": true,
+  "chance": 0.5,
+  "child": "dawnstone_plant",
+  "parent1": "copper_plant",
+  "parent2": "gold_plant"
+}

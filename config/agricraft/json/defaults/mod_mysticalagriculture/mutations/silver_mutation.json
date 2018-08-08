@@ -1,0 +1,8 @@
+{
+  "path": "mod_mysticalagriculture/mutations/silver_mutation.json",
+  "enabled": true,
+  "chance": 0.25,
+  "child": "silver_plant",
+  "parent1": "aluminum_plant",
+  "parent2": "apatite_plant"
+}

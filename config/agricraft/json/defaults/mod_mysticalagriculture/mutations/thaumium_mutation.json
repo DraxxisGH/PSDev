@@ -1,0 +1,8 @@
+{
+  "path": "mod_mysticalagriculture/mutations/thaumium_mutation.json",
+  "enabled": true,
+  "chance": 0.5,
+  "child": "thaumium_plant",
+  "parent1": "knightslime_plant",
+  "parent2": "ender_biotite_plant"
+}

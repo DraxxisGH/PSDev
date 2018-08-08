@@ -1,0 +1,8 @@
+{
+  "path": "mod_mysticalagriculture/mutations/pulsating_iron_mutation.json",
+  "enabled": true,
+  "chance": 0.25,
+  "child": "pulsating_iron_plant",
+  "parent1": "enderman_plant",
+  "parent2": "iron_plant"
+}

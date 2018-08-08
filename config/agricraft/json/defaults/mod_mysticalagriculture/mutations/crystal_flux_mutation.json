@@ -1,0 +1,8 @@
+{
+  "path": "mod_mysticalagriculture/mutations/crystal_flux_mutation.json",
+  "enabled": true,
+  "chance": 0.25,
+  "child": "crystal_flux_mystical_plant",
+  "parent1": "diamond_plant",
+  "parent2": "redstone_plant"
+}

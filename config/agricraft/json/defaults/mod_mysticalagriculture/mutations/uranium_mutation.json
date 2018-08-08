@@ -1,0 +1,8 @@
+{
+  "path": "mod_mysticalagriculture/mutations/uranium_mutation.json",
+  "enabled": true,
+  "chance": 0.5,
+  "child": "uranium_plant",
+  "parent1": "uranium_238_plant",
+  "parent2": "chrome_plant"
+}

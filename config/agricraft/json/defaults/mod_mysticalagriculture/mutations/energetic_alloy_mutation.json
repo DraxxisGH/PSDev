@@ -1,0 +1,8 @@
+{
+  "path": "mod_mysticalagriculture/mutations/energetic_alloy_mutation.json",
+  "enabled": true,
+  "chance": 0.25,
+  "child": "energetic_alloy_plant",
+  "parent1": "redstone_plant",
+  "parent2": "gold_plant"
+}

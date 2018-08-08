@@ -1,0 +1,8 @@
+{
+  "path": "mod_mysticalagriculture/mutations/saltpeter_mutation.json",
+  "enabled": true,
+  "chance": 0.5,
+  "child": "saltpeter_plant",
+  "parent1": "marble_plant",
+  "parent2": "limestone_plant"
+}

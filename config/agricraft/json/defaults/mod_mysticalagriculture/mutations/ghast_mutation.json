@@ -1,0 +1,8 @@
+{
+  "path": "mod_mysticalagriculture/mutations/ghast_mutation.json",
+  "enabled": true,
+  "chance": 0.5,
+  "child": "ghast_plant",
+  "parent1": "creeper_plant",
+  "parent2": "nether_plant"
+}

@@ -1,0 +1,8 @@
+{
+  "path": "mod_mysticalagriculture/mutations/enderman_mutation.json",
+  "enabled": true,
+  "chance": 0.25,
+  "child": "enderman_plant",
+  "parent1": "zombie_plant",
+  "parent2": "ender_biotite_plant"
+}

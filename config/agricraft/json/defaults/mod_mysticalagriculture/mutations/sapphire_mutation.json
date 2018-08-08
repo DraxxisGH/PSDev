@@ -1,0 +1,8 @@
+{
+  "path": "mod_mysticalagriculture/mutations/sapphire_mutation.json",
+  "enabled": true,
+  "chance": 0.5,
+  "child": "sapphire_plant",
+  "parent1": "aquamarine_plant",
+  "parent2": "silicon_plant"
+}

@@ -1,0 +1,8 @@
+{
+  "path": "mod_mysticalagriculture/mutations/black_quartz_mutation.json",
+  "enabled": true,
+  "chance": 0.5,
+  "child": "black_quartz_plant",
+  "parent1": "nether_quartz_plant",
+  "parent2": "coal_plant"
+}

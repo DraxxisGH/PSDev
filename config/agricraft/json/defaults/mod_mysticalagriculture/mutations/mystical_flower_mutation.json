@@ -1,0 +1,8 @@
+{
+  "path": "mod_mysticalagriculture/mutations/mystical_flower_mutation.json",
+  "enabled": true,
+  "chance": 0.5,
+  "child": "mystical_flower_plant",
+  "parent1": "dye_plant",
+  "parent2": "botania_black_plant"
+}

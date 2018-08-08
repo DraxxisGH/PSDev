@@ -1,0 +1,8 @@
+{
+  "path": "mod_mysticalagriculture/mutations/experience_mutation.json",
+  "enabled": true,
+  "chance": 0.5,
+  "child": "experience_plant",
+  "parent1": "lapis_lazuli_plant",
+  "parent2": "peridot_plant"
+}

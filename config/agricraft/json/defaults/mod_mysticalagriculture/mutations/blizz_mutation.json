@@ -1,0 +1,8 @@
+{
+  "path": "mod_mysticalagriculture/mutations/blizz_mutation.json",
+  "enabled": true,
+  "chance": 0.5,
+  "child": "blizz_plant",
+  "parent1": "skeleton_plant",
+  "parent2": "ice_plant"
+}

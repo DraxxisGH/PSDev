@@ -1,0 +1,8 @@
+{
+  "path": "mod_mysticalagriculture/mutations/yellow_garnet_mutation.json",
+  "enabled": true,
+  "chance": 0.5,
+  "child": "yellow_garnet_mystical_plant",
+  "parent1": "peridot_plant",
+  "parent2": "dandelion_plant"
+}

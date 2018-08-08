@@ -1,0 +1,8 @@
+{
+  "path": "mod_mysticalagriculture/mutations/aquamarine_mutation.json",
+  "enabled": true,
+  "chance": 0.25,
+  "child": "aquamarine_plant",
+  "parent1": "water_plant",
+  "parent2": "stone_plant"
+}

@@ -1,0 +1,8 @@
+{
+  "path": "mod_mysticalagriculture/mutations/manyullyn_mutation.json",
+  "enabled": true,
+  "chance": 0.25,
+  "child": "manyullyn_plant",
+  "parent1": "cobalt_plant",
+  "parent2": "ardite_plant"
+}

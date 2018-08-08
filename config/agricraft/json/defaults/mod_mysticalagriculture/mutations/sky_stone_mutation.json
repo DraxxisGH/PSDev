@@ -1,0 +1,8 @@
+{
+  "path": "mod_mysticalagriculture/mutations/sky_stone_mutation.json",
+  "enabled": true,
+  "chance": 0.5,
+  "child": "sky_stone_plant",
+  "parent1": "basalt_plant",
+  "parent2": "certus_quartz_plant"
+}

@@ -1,0 +1,8 @@
+{
+  "path": "mod_mysticalagriculture/mutations/pigiron_mutation.json",
+  "enabled": true,
+  "chance": 0.5,
+  "child": "pigiron_mystical_plant",
+  "parent1": "pig_plant",
+  "parent2": "iron_plant"
+}

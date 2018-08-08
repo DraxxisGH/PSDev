@@ -1,0 +1,8 @@
+{
+  "path": "mod_mysticalagriculture/mutations/void_metal_mutation.json",
+  "enabled": true,
+  "chance": 0.5,
+  "child": "void_metal_plant",
+  "parent1": "thaumium_plant",
+  "parent2": "grains_of_infinity_plant"
+}

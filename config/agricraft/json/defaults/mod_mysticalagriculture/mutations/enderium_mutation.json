@@ -1,0 +1,8 @@
+{
+  "path": "mod_mysticalagriculture/mutations/enderium_mutation.json",
+  "enabled": true,
+  "chance": 0.5,
+  "child": "enderium_plant",
+  "parent1": "enderman_plant",
+  "parent2": "platinum_plant"
+}

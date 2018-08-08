@@ -1,0 +1,8 @@
+{
+  "path": "mod_mysticalagriculture/mutations/nether_mutation.json",
+  "enabled": true,
+  "chance": 0.5,
+  "child": "nether_plant",
+  "parent1": "fire_plant",
+  "parent2": "stone_plant"
+}

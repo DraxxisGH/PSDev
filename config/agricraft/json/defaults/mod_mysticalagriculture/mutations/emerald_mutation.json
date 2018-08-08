@@ -1,0 +1,8 @@
+{
+  "path": "mod_mysticalagriculture/mutations/emerald_mutation.json",
+  "enabled": true,
+  "chance": 0.5,
+  "child": "emerald_plant",
+  "parent1": "peridot_plant",
+  "parent2": "candleberry_plant"
+}

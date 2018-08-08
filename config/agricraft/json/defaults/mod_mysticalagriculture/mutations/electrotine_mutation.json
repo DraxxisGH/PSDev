@@ -1,0 +1,8 @@
+{
+  "path": "mod_mysticalagriculture/mutations/electrotine_mutation.json",
+  "enabled": true,
+  "chance": 0.5,
+  "child": "electrotine_plant",
+  "parent1": "creeper_plant",
+  "parent2": "orchid_plant"
+}

@@ -1,0 +1,8 @@
+{
+  "path": "mod_mysticalagriculture/mutations/amber_mutation.json",
+  "enabled": true,
+  "chance": 0.5,
+  "child": "amber_plant",
+  "parent1": "blaze_plant",
+  "parent2": "yellow_garnet_mystical_plant"
+}

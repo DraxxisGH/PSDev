@@ -1,0 +1,8 @@
+{
+  "path": "mod_mysticalagriculture/mutations/dirt_mutation.json",
+  "enabled": true,
+  "chance": 0.5,
+  "child": "dirt_plant",
+  "parent1": "water_plant",
+  "parent2": "wheat_plant"
+}

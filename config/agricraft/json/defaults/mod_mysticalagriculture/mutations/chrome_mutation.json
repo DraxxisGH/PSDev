@@ -1,0 +1,8 @@
+{
+  "path": "mod_mysticalagriculture/mutations/chrome_mutation.json",
+  "enabled": true,
+  "chance": 0.5,
+  "child": "chrome_plant",
+  "parent1": "zinc_plant",
+  "parent2": "ruby_plant"
+}

@@ -1,0 +1,8 @@
+{
+  "path": "mod_mysticalagriculture/mutations/elementium_mutation.json",
+  "enabled": true,
+  "chance": 0.25,
+  "child": "elementium_plant",
+  "parent1": "knightslime_plant",
+  "parent2": "manasteel_plant"
+}

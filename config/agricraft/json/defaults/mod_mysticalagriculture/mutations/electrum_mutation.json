@@ -1,0 +1,8 @@
+{
+  "path": "mod_mysticalagriculture/mutations/electrum_mutation.json",
+  "enabled": true,
+  "chance": 0.25,
+  "child": "electrum_plant",
+  "parent1": "silver_plant",
+  "parent2": "gold_plant"
+}

@@ -1,0 +1,8 @@
+{
+  "path": "mod_mysticalagriculture/mutations/star_steel_mutation.json",
+  "enabled": true,
+  "chance": 0.5,
+  "child": "star_steel_plant",
+  "parent1": "ender_biotite_plant",
+  "parent2": "steel_plant"
+}

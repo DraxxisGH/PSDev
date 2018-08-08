@@ -1,0 +1,8 @@
+{
+  "path": "mod_mysticalagriculture/mutations/dye_mutation.json",
+  "enabled": true,
+  "chance": 0.5,
+  "child": "dye_plant",
+  "parent1": "pink_tulip_plant",
+  "parent2": "orange_tulip_plant"
+}

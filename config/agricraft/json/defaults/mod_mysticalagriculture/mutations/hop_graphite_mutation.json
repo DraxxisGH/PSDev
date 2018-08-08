@@ -1,0 +1,8 @@
+{
+  "path": "mod_mysticalagriculture/mutations/hop_graphite_mutation.json",
+  "enabled": true,
+  "chance": 0.25,
+  "child": "hop_graphite_plant",
+  "parent1": "coal_plant",
+  "parent2": "graphite_plant"
+}

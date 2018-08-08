@@ -1,0 +1,8 @@
+{
+  "path": "mod_mysticalagriculture/mutations/blaze_mutation.json",
+  "enabled": true,
+  "chance": 0.5,
+  "child": "blaze_plant",
+  "parent1": "blitz_plant",
+  "parent2": "fire_plant"
+}

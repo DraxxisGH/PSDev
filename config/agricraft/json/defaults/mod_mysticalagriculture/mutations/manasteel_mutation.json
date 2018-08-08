@@ -1,0 +1,8 @@
+{
+  "path": "mod_mysticalagriculture/mutations/manasteel_mutation.json",
+  "enabled": true,
+  "chance": 0.5,
+  "child": "manasteel_plant",
+  "parent1": "mystical_flower_plant",
+  "parent2": "iron_plant"
+}

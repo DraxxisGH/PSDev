@@ -1,0 +1,8 @@
+{
+  "path": "mod_mysticalagriculture/mutations/skeleton_mutation.json",
+  "enabled": true,
+  "chance": 0.5,
+  "child": "skeleton_plant",
+  "parent1": "zombie_plant",
+  "parent2": "marble_plant"
+}

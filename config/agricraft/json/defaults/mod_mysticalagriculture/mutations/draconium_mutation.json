@@ -1,0 +1,8 @@
+{
+  "path": "mod_mysticalagriculture/mutations/draconium_mutation.json",
+  "enabled": true,
+  "chance": 0.5,
+  "child": "draconium_plant",
+  "parent1": "adamantine_plant",
+  "parent2": "manyullyn_plant"
+}

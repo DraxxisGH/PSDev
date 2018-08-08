@@ -1,0 +1,8 @@
+{
+  "path": "mod_mysticalagriculture/mutations/tungstensteel_mutation.json",
+  "enabled": true,
+  "chance": 0.5,
+  "child": "tungstensteel_mystical_plant",
+  "parent1": "tungsten_plant",
+  "parent2": "steel_plant"
+}

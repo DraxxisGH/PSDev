@@ -1,0 +1,8 @@
+{
+  "path": "mod_mysticalagriculture/mutations/adamantine_mutation.json",
+  "enabled": true,
+  "chance": 0.25,
+  "child": "adamantine_plant",
+  "parent1": "star_steel_plant",
+  "parent2": "ardite_plant"
+}

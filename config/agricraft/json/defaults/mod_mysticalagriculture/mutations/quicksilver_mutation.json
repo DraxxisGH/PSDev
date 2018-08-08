@@ -1,0 +1,8 @@
+{
+  "path": "mod_mysticalagriculture/mutations/quicksilver_mutation.json",
+  "enabled": true,
+  "chance": 0.5,
+  "child": "quicksilver_plant",
+  "parent1": "silver_plant",
+  "parent2": "water_plant"
+}

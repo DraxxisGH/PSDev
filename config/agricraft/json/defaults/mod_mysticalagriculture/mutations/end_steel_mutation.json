@@ -1,0 +1,8 @@
+{
+  "path": "mod_mysticalagriculture/mutations/end_steel_mutation.json",
+  "enabled": true,
+  "chance": 0.25,
+  "child": "end_steel_plant",
+  "parent1": "end_plant",
+  "parent2": "dark_steel_plant"
+}

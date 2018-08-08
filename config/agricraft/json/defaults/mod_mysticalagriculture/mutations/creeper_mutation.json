@@ -1,0 +1,8 @@
+{
+  "path": "mod_mysticalagriculture/mutations/creeper_mutation.json",
+  "enabled": true,
+  "chance": 0.5,
+  "child": "creeper_plant",
+  "parent1": "saltpeter_plant",
+  "parent2": "sulfur_plant"
+}

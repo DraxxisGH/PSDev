@@ -1,0 +1,8 @@
+{
+  "path": "mod_mysticalagriculture/mutations/slate_mutation.json",
+  "enabled": true,
+  "chance": 0.5,
+  "child": "slate_plant",
+  "parent1": "stone_plant",
+  "parent2": "fire_plant"
+}

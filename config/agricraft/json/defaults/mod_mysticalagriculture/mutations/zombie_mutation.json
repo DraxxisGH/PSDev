@@ -1,0 +1,8 @@
+{
+  "path": "mod_mysticalagriculture/mutations/zombie_mutation.json",
+  "enabled": true,
+  "chance": 0.5,
+  "child": "zombie_plant",
+  "parent1": "nature_plant",
+  "parent2": "brown_mushroom_plant"
+}

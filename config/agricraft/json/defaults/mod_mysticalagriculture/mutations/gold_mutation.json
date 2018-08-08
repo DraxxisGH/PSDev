@@ -1,0 +1,8 @@
+{
+  "path": "mod_mysticalagriculture/mutations/gold_mutation.json",
+  "enabled": true,
+  "chance": 0.5,
+  "child": "gold_plant",
+  "parent1": "glowstone_plant",
+  "parent2": "iron_plant"
+}

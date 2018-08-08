@@ -1,0 +1,8 @@
+{
+  "path": "mod_mysticalagriculture/mutations/alumite_mutation.json",
+  "enabled": true,
+  "chance": 0.25,
+  "child": "alumite_plant",
+  "parent1": "obsidian_plant",
+  "parent2": "aluminum_plant"
+}

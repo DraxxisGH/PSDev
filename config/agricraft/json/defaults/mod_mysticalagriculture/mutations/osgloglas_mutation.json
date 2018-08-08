@@ -1,0 +1,8 @@
+{
+  "path": "mod_mysticalagriculture/mutations/osgloglas_mutation.json",
+  "enabled": true,
+  "chance": 0.5,
+  "child": "osgloglas_mystical_plant",
+  "parent1": "glowstone_ingot_plant",
+  "parent2": "refined_obsidian_plant"
+}

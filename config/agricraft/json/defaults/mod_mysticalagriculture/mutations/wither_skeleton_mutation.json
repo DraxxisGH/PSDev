@@ -1,0 +1,8 @@
+{
+  "path": "mod_mysticalagriculture/mutations/wither_skeleton_mutation.json",
+  "enabled": true,
+  "chance": 0.5,
+  "child": "wither_skeleton_plant",
+  "parent1": "enderman_plant",
+  "parent2": "skeleton_plant"
+}

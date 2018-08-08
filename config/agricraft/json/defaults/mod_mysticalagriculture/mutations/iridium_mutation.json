@@ -1,0 +1,8 @@
+{
+  "path": "mod_mysticalagriculture/mutations/iridium_mutation.json",
+  "enabled": true,
+  "chance": 0.5,
+  "child": "iridium_plant",
+  "parent1": "iridium_ore_plant",
+  "parent2": "titanium_plant"
+}

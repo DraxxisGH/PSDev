@@ -1,0 +1,8 @@
+{
+  "path": "mod_mysticalagriculture/mutations/constantan_mutation.json",
+  "enabled": true,
+  "chance": 0.5,
+  "child": "constantan_plant",
+  "parent1": "nickel_plant",
+  "parent2": "copper_plant"
+}

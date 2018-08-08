@@ -1,0 +1,8 @@
+{
+  "path": "mod_mysticalagriculture/mutations/brass_mutation.json",
+  "enabled": true,
+  "chance": 0.25,
+  "child": "brass_plant",
+  "parent1": "zinc_plant",
+  "parent2": "copper_plant"
+}

@@ -1,0 +1,8 @@
+{
+  "path": "mod_mysticalagriculture/mutations/obsidian_mutation.json",
+  "enabled": true,
+  "chance": 0.05,
+  "child": "obsidian_plant",
+  "parent1": "water_plant",
+  "parent2": "fire_plant"
+}

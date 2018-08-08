@@ -1,0 +1,8 @@
+{
+  "path": "mod_mysticalagriculture/mutations/sheep_mutation.json",
+  "enabled": true,
+  "chance": 0.5,
+  "child": "sheep_plant",
+  "parent1": "chicken_plant",
+  "parent2": "wheat_plant"
+}

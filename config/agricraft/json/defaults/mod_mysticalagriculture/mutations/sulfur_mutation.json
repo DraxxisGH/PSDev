@@ -1,0 +1,8 @@
+{
+  "path": "mod_mysticalagriculture/mutations/sulfur_mutation.json",
+  "enabled": true,
+  "chance": 0.5,
+  "child": "sulfur_plant",
+  "parent1": "basalt_plant",
+  "parent2": "limestone_plant"
+}

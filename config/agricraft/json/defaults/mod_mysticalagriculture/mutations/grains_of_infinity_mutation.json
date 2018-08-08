@@ -1,0 +1,8 @@
+{
+  "path": "mod_mysticalagriculture/mutations/grains_of_infinity_mutation.json",
+  "enabled": true,
+  "chance": 0.25,
+  "child": "grains_of_infinity_plant",
+  "parent1": "redstone_plant",
+  "parent2": "obsidian_plant"
+}

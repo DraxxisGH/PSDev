@@ -1,0 +1,8 @@
+{
+  "path": "mod_mysticalagriculture/mutations/knightslime_mutation.json",
+  "enabled": true,
+  "chance": 0.5,
+  "child": "knightslime_plant",
+  "parent1": "iron_plant",
+  "parent2": "slime_plant"
+}

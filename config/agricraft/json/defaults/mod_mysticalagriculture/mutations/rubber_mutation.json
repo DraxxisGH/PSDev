@@ -1,0 +1,8 @@
+{
+  "path": "mod_mysticalagriculture/mutations/rubber_mutation.json",
+  "enabled": true,
+  "chance": 0.5,
+  "child": "rubber_plant",
+  "parent1": "slime_plant",
+  "parent2": "wood_plant"
+}

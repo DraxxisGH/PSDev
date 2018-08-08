@@ -1,0 +1,8 @@
+{
+  "path": "mod_mysticalagriculture/mutations/tin_mutation.json",
+  "enabled": true,
+  "chance": 0.75,
+  "child": "tin_plant",
+  "parent1": "aluminum_plant",
+  "parent2": "nickel_plant"
+}

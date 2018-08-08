@@ -1,0 +1,8 @@
+{
+  "path": "mod_mysticalagriculture/mutations/osmium_mutation.json",
+  "enabled": true,
+  "chance": 0.5,
+  "child": "osmium_plant",
+  "parent1": "tin_plant",
+  "parent2": "silver_plant"
+}

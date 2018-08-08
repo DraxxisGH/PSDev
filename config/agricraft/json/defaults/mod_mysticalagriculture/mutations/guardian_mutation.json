@@ -1,0 +1,8 @@
+{
+  "path": "mod_mysticalagriculture/mutations/guardian_mutation.json",
+  "enabled": true,
+  "chance": 0.5,
+  "child": "guardian_plant",
+  "parent1": "creeper_plant",
+  "parent2": "seaweed_plant"
+}

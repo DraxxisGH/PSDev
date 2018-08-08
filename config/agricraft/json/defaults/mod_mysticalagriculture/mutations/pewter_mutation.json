@@ -1,0 +1,8 @@
+{
+  "path": "mod_mysticalagriculture/mutations/pewter_mutation.json",
+  "enabled": true,
+  "chance": 0.75,
+  "child": "pewter_mystical_plant",
+  "parent1": "tin_plant",
+  "parent2": "lead_plant"
+}

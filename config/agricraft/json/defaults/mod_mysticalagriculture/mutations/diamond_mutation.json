@@ -1,0 +1,8 @@
+{
+  "path": "mod_mysticalagriculture/mutations/diamond_mutation.json",
+  "enabled": true,
+  "chance": 0.5,
+  "child": "diamond_plant",
+  "parent1": "coal_plant",
+  "parent2": "lapis_lazuli_plant"
+}

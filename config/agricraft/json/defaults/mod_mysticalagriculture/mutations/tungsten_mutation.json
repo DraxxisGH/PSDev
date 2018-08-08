@@ -1,0 +1,8 @@
+{
+  "path": "mod_mysticalagriculture/mutations/tungsten_mutation.json",
+  "enabled": true,
+  "chance": 0.5,
+  "child": "tungsten_plant",
+  "parent1": "pewter_mystical_plant",
+  "parent2": "refined_obsidian_plant"
+}

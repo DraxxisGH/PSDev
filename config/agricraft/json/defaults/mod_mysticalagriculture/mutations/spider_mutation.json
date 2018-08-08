@@ -1,0 +1,8 @@
+{
+  "path": "mod_mysticalagriculture/mutations/spider_mutation.json",
+  "enabled": true,
+  "chance": 0.5,
+  "child": "spider_plant",
+  "parent1": "sheep_plant",
+  "parent2": "basalt_plant"
+}

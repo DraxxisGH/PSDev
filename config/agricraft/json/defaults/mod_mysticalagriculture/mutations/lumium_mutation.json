@@ -1,0 +1,8 @@
+{
+  "path": "mod_mysticalagriculture/mutations/lumium_mutation.json",
+  "enabled": true,
+  "chance": 0.5,
+  "child": "lumium_plant",
+  "parent1": "glowstone_plant",
+  "parent2": "tin_plant"
+}

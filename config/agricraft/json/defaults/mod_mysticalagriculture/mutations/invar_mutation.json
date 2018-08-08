@@ -1,0 +1,8 @@
+{
+  "path": "mod_mysticalagriculture/mutations/invar_mutation.json",
+  "enabled": true,
+  "chance": 0.5,
+  "child": "invar_plant",
+  "parent1": "nickel_plant",
+  "parent2": "iron_plant"
+}

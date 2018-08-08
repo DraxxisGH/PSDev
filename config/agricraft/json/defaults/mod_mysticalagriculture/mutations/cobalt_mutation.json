@@ -1,0 +1,8 @@
+{
+  "path": "mod_mysticalagriculture/mutations/cobalt_mutation.json",
+  "enabled": true,
+  "chance": 0.5,
+  "child": "cobalt_plant",
+  "parent1": "lapis_lazuli_plant",
+  "parent2": "ardite_plant"
+}

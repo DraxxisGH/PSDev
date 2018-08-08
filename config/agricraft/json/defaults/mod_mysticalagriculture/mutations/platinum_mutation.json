@@ -1,0 +1,8 @@
+{
+  "path": "mod_mysticalagriculture/mutations/platinum_mutation.json",
+  "enabled": true,
+  "chance": 0.5,
+  "child": "platinum_plant",
+  "parent1": "diamond_plant",
+  "parent2": "nickel_plant"
+}

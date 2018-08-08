@@ -1,0 +1,8 @@
+{
+  "path": "mod_mysticalagriculture/mutations/bismuth_mutation.json",
+  "enabled": true,
+  "chance": 0.5,
+  "child": "bismuth_mystical_plant",
+  "parent1": "lead_plant",
+  "parent2": "dye_plant"
+}

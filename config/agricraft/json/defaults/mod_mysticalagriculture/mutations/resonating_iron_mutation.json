@@ -1,0 +1,8 @@
+{
+  "path": "mod_mysticalagriculture/mutations/resonating_iron_mutation.json",
+  "enabled": true,
+  "chance": 0.25,
+  "child": "resonating_iron_plant",
+  "parent1": "enderman_plant",
+  "parent2": "iron_plant"
+}

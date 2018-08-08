@@ -1,0 +1,8 @@
+{
+  "path": "mod_mysticalagriculture/mutations/limestone_mutation.json",
+  "enabled": true,
+  "chance": 0.5,
+  "child": "limestone_plant",
+  "parent1": "slate_plant",
+  "parent2": "marble_plant"
+}

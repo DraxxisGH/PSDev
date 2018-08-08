@@ -1,0 +1,8 @@
+{
+  "path": "mod_mysticalagriculture/mutations/starmetal_mutation.json",
+  "enabled": true,
+  "chance": 0.5,
+  "child": "starmetal_plant",
+  "parent1": "star_steel_plant",
+  "parent2": "mithril_plant"
+}

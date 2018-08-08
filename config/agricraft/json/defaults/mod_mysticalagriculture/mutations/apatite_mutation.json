@@ -1,0 +1,8 @@
+{
+  "path": "mod_mysticalagriculture/mutations/apatite_mutation.json",
+  "enabled": true,
+  "chance": 0.75,
+  "child": "apatite_plant",
+  "parent1": "water_plant",
+  "parent2": "stone_plant"
+}

@@ -1,0 +1,8 @@
+{
+  "path": "mod_mysticalagriculture/mutations/mirion_mutation.json",
+  "enabled": true,
+  "chance": 0.25,
+  "child": "mirion_mystical_plant",
+  "parent1": "terrasteel_plant",
+  "parent2": "cobalt_plant"
+}

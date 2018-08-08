@@ -1,0 +1,8 @@
+{
+  "path": "mod_mysticalagriculture/mutations/yellorium_mutation.json",
+  "enabled": true,
+  "chance": 0.5,
+  "child": "yellorium_plant",
+  "parent1": "lead_plant",
+  "parent2": "glowstone_ingot_plant"
+}

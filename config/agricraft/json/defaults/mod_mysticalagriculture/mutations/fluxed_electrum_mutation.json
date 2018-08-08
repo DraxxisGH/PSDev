@@ -1,0 +1,8 @@
+{
+  "path": "mod_mysticalagriculture/mutations/fluxed_electrum_mutation.json",
+  "enabled": true,
+  "chance": 0.25,
+  "child": "fluxed_electrum_plant",
+  "parent1": "electrum_plant",
+  "parent2": "redstone_plant"
+}

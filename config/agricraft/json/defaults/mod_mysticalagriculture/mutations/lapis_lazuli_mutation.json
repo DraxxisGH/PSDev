@@ -1,0 +1,8 @@
+{
+  "path": "mod_mysticalagriculture/mutations/lapis_lazuli_mutation.json",
+  "enabled": true,
+  "chance": 0.5,
+  "child": "lapis_lazuli_plant",
+  "parent1": "aquamarine_plant",
+  "parent2": "silicon_plant"
+}
