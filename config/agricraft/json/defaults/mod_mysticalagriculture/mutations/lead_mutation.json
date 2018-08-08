@@ -3,6 +3,6 @@
   "enabled": true,
   "chance": 0.5,
   "child": "lead_plant",
-  "parent1": "aquarium_plant",
-  "parent2": "cold_iron_plant"
+  "parent1": "silicon_plant",
+  "parent2": "coal_plant"
 }

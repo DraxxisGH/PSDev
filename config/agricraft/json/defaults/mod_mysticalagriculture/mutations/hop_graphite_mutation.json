@@ -4,5 +4,5 @@
   "chance": 0.25,
   "child": "hop_graphite_plant",
   "parent1": "coal_plant",
-  "parent2": "graphite_plant"
+  "parent2": "fire_plant"
 }

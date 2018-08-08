@@ -3,6 +3,6 @@
   "enabled": true,
   "chance": 0.5,
   "child": "limestone_plant",
-  "parent1": "slate_plant",
+  "parent1": "stone",
   "parent2": "marble_plant"
 }
