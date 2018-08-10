@@ -1,0 +1,8 @@
+{
+"path": "mod_mysticalagriculture/mutations/ember_mutation.json",
+"enabled": true,
+"chance": 0.5,
+"child": "ember_plant",
+"parent1": "stone_plant",
+"parent2": "blaze_plant"
+}

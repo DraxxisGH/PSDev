@@ -3,6 +3,6 @@
   "enabled": true,
   "chance": 0.5,
   "child": "creeper_plant",
-  "parent1": "saltpeter_plant",
-  "parent2": "sulfur_plant"
+  "parent1": "zombie_plant",
+  "parent2": "fire_plant"
 }

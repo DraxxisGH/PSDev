@@ -3,6 +3,6 @@
   "enabled": true,
   "chance": 0.5,
   "child": "emerald_plant",
-  "parent1": "peridot_plant",
+  "parent1": "diamond_plant",
   "parent2": "candleberry_plant"
 }

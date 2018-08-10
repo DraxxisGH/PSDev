@@ -4,5 +4,5 @@
   "chance": 0.25,
   "child": "enderman_plant",
   "parent1": "zombie_plant",
-  "parent2": "ender_biotite_plant"
+  "parent2": "knightslime_plant"
 }
