@@ -1,3 +1,4 @@
+//Remove All
 recipes.remove(<minecraft:chainmail_chestplate>);
 recipes.remove(<minecraft:iron_chestplate>);
 recipes.remove(<minecraft:diamond_chestplate>);
@@ -17,4 +18,8 @@ recipes.remove(<botania:manasteelchest>);
 recipes.remove(<botania:terrasteelchest>);
 recipes.remove(<botania:elementiumchest>);
 recipes.remove(<ceramics:clay_chestplate>);
+//Add 
+recipes.addShaped(<minecraft:iron_chestplate>, [[<immersiveengineering:metal:39>, null, <immersiveengineering:metal:39>],[<botania:spellcloth>, <immersiveengineering:metal:39>, <botania:spellcloth>], [<immersiveengineering:metal:39>, <immersiveengineering:metal:39>, <immersiveengineering:metal:39>]]);
+recipes.addShaped(<minecraft:diamond_chestplate>, [[<betterwithmods:material:45>, null, <betterwithmods:material:45>],[<botania:spellcloth>, <betterwithmods:material:45>, <botania:spellcloth>], [<betterwithmods:material:45>, <betterwithmods:material:45>, <betterwithmods:material:45>]]);
+
 
