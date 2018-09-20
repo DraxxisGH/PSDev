@@ -1,8 +1,0 @@
-{
-  "path": "mod_mysticalagriculture/mutations/lead_mutation.json",
-  "enabled": true,
-  "chance": 0.5,
-  "child": "lead_plant",
-  "parent1": "silicon_plant",
-  "parent2": "coal_plant"
-}

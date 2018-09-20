@@ -1,8 +1,0 @@
-{
-  "path": "mod_mysticalagriculture/mutations/uranium_mutation.json",
-  "enabled": true,
-  "chance": 0.5,
-  "child": "uranium_plant",
-  "parent1": "blaze_plant",
-  "parent2": "redstone_plant"
-}
